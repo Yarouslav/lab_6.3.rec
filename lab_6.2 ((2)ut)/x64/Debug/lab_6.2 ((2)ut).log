@@ -1,0 +1,8 @@
+﻿  lab_6.2 ((2)ut).cpp
+C:\Users\Lenovo\Desktop\лаби\АП\lab_6.3(2)\lab_6.3(2)\Source.cpp(34,13): error C2561: 'checkAndPrintModifiedArray': function must return a value
+C:\Users\Lenovo\Desktop\лаби\АП\lab_6.3(2)\lab_6.3(2)\Source.cpp(28,3): message : see declaration of 'checkAndPrintModifiedArray'
+C:\Users\Lenovo\Desktop\лаби\АП\lab_6.3(2)\lab_6.3(2)\Source.cpp(52,5): message : see reference to function template instantiation 'T checkAndPrintModifiedArray<int>(T [],int,int)' being compiled
+          with
+          [
+              T=int
+          ]
